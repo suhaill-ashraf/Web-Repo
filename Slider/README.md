@@ -1,5 +1,5 @@
 
-# Responsive Slider Image Slider Using Html & CSS only
+# Responsive Image Slider Using Html & CSS only
 
 Only keyframes and animation is used:
 
