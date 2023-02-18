@@ -1,7 +1,7 @@
 
 # Project Title
 
-Response Card Layout Using Grid.
+Responsive Card Layout With CSS Grid.
 
 
 
